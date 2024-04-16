@@ -10,6 +10,6 @@ server_script 'server.lua'
 
 shared_script 'config.lua'
 
-Lua54 "yes"
+Lua5.4 "yes"
 
 dependency 'discord_rest'
